@@ -1,0 +1,20 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+  background-color: #e3f2fd;
+  font-size: 24px;
+  color: #0d47a1;
+  font-weight: bold;
+}
+
+#map {
+  width: 100%;
+  height: calc(100vh - 60px);
+}
